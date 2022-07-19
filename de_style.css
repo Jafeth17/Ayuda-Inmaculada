@@ -1,0 +1,184 @@
+.detbl
+{
+direction:ltr; border-spacing:0px;
+border-collapse: collapse;
+border: 0px none black;
+}
+.de_list
+{
+margin: 0;padding: 0;
+}
+div.p
+{
+margin-top:0px;
+margin-bottom:0px;
+font-weight:normal;
+}
+
+div.description_on_page div.p,
+ div.description_on_page div.p a,
+ .m-pageContent__side__header div.p,
+ .m-pageContent__side__header div.p a,
+ .m-pageContent__side__footer div.p,
+ .m-pageContent__side__footer div.p a,
+ .m-pageContent__side__right div.p,
+ .m-pageContent__side__right div.p a,
+ .m-pageContent__side__left div.p,
+ .m-pageContent__side__left div.p a
+{
+font-family:"Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 12pt;color:#000000;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+}
+h1
+{
+font-family:"Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 16pt;color:#50a0dc;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+display:inline;
+margin:0;
+padding:0;
+}
+h2
+{
+font-family:"Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14pt;color:#3c78aa;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+display:inline;
+margin:0;
+padding:0;
+}
+h3
+{
+font-family:"Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 12pt;color:#000000;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+display:inline;
+margin:0;
+padding:0;
+}
+span.code
+{
+font-family:"Courier New";
+font-size: 12pt;color:#000000;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+}
+span.quote
+{
+font-family:"Georgia";
+font-size: 12pt;color:#000000;
+font-style:italic;
+text-decoration:none;
+font-weight:normal;
+}
+img.de_780D01ADE8
+{
+margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;}
+img.de_D457E58A2E
+{
+margin-top: 0px; margin-right: 8px; margin-bottom: 8px; margin-left: 8px;}
+span.de_33A5E04A8B
+{
+	font-family: "Calibri";
+	font-size: 28pt;
+	color:#ff0000;
+}
+span.de_4240AE2C05
+{
+	font-family: "Calibri";
+	font-size: 11pt;
+	color:#000000;
+	text-decoration:underline;
+}
+span.de_4CD179DA38
+{
+	font-family: "Calibri";
+	font-size: 11pt;
+	color:#000000;
+}
+span.de_60E04EDE21
+{
+	font-family: "Calibri";
+	font-size: 16pt;
+	color:#5387db;
+}
+span.de_6B7F0857AE
+{
+	font-family: "Calibri";
+	font-size: 14pt;
+	color:#000000;
+}
+span.de_9EA809B773
+{
+	font-family: "Calibri";
+	font-size: 22pt;
+	color:#30353e;
+}
+span.de_A0A425E856
+{
+	font-family: "Calibri";
+	font-size: 22pt;
+	color:#000000;
+}
+span.de_A4122ABB3B
+{
+	font-family: "Calibri";
+	font-size: 11pt;
+	color:#5387db;
+}
+span.de_BFA29210B4
+{
+	font-family: "Calibri";
+	font-size: 11pt;
+	color:#0563c1;
+	text-decoration:underline;
+}
+span.de_C9726E8AC4
+{
+	font-family: "Calibri Light";
+	font-size: 16pt;
+	color:#2f5496;
+}
+span.de_D8BCB2AC4C
+{
+	font-family: "Calibri";
+	font-size: 12pt;
+	color:#000000;
+}
+span.de_DA6F256911
+{
+	font-family: "Calibri";
+	font-size: 22pt;
+	color:#e50a0a;
+}
+span.de_E71183D815
+{
+	font-family: "Times New Roman";
+	font-size: 13pt;
+	color:#000000;
+}
+span.de_E760F6387B
+{
+	font-family: "Calibri";
+	font-size: 40pt;
+	color:#5387db;
+}
+span.de_FA989C7B08
+{
+	font-family: "Calibri";
+	font-size: 22pt;
+	color:#11161a;
+}
+.list-element {
+	list-style-type: none;
+}
